@@ -49,6 +49,6 @@ app.get('/photooxy-2', (req, res) => {
 })();
 })
 
-app.listen(8080, () => {
-  console.log("Server started on port http://localhost:8080/");
+app.listen(3000, () => {
+  console.log("Server started on port http://localhost:3000/");
 });
